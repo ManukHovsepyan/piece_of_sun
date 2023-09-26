@@ -1,0 +1,2 @@
+export const wrapperStyles = 'max-w-[698px] shadow-[0 1px 8px 0 #adadb8] w-full bg-[#fff] text-center rounded-xl h-auto shadow-lg'
+export const loginInner = 'inline-block py-[16px] w-[85%] mx-auto text-left h-full flex flex-col'

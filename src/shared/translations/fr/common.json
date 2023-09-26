@@ -1,0 +1,51 @@
+{
+  "terminalLogin": {
+    "footerDescription": "THIS IS A PRIVATE SERVER. UNAUTHORIZED ACCESS IS STRICTLY FORBIDDEN. FOR INQUIRIES: contact@waveum.com",
+    "formHeading": "Connexion au terminal",
+    "resetFormHeading": "Entrer votre {{step}}",
+    "registerFormHeading": "Enregistrer un terminal",
+    "rememberMe": "Se rappeler de la machine",
+    "submit": "Soumettre",
+    "signUp": "S'inscrire",
+    "endText": "Waveum",
+    "forgotPassword": "Mot de passe oublié?",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "registerButton": "S'inscrire",
+    "logoutAll": "Déconnexion"
+  },
+  "slider": {
+    "storeUiText": "Retail",
+    "partnerUiText": "Partner",
+    "wholesaleUiText": "Wholesale"
+  },
+  "error": {
+    "invalidCredentials": "Le mot de passe est incorrect",
+    "passwordMismatch": "Les mots de passe ne correspondent pas",
+    "passwordReset": "Erreur dans le changement du mot de passe",
+    "registrationFailed": "Erreur dans l'enregistrement du terminal"
+  },
+  "placeholders": {
+    "username": "Identifiant du terminal",
+    "password": "Mot de passe",
+    "otp": "Entrer le code reçu dans l'email",
+    "reset": "Entrer votre identifiant",
+    "resetOtp": "Entrer le code reçu dans l'email",
+    "resetPassword": "Nouveau mot de passe",
+    "register": "Entrer votre identifiant",
+    "registerVerify": "Entrer le code reçu dans l'email",
+    "registerRequest": "Entrer votre mot de passe",
+    "registerConfirme": "Entrer votre mot de passe à nouveau"
+  },
+  "infoMessage": {
+    "authUpdate": "Migration effectuée avec succès. Connectez-vous à nouveau",
+    "resetPasswordSuccess": "Mot de passe changé avec succès",
+    "registrationSuccess": "Terminal enregistré avec succès"
+  },
+  "storeLabels": {
+    "storeUI": "Retail",
+    "wholesaleUI": "Wholesale",
+    "partnerUI": "Partner",
+    "marketplaceUI": "Marketplace",
+    "backOffice": "Back-Office"
+  }
+}

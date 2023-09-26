@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="70.41" viewBox="0 0 79 70.41">
+  <g id="Group_224" data-name="Group 224" transform="translate(-1071 -429.59)">
+    <g id="PANIER" transform="translate(-410.432 64.09)">
+      <path id="Ellipse_732" data-name="Ellipse 732" d="M1514,389.3V374.739a8.738,8.738,0,1,1,17.477,0V389.3" transform="translate(11.477 0)" fill="rgba(255,255,255,0)" stroke="#153b5e" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Rectangle_731" data-name="Rectangle 731" transform="translate(0 13.39)" fill="rgba(255,255,255,0)" stroke-linejoin="round">
+        <path d="M 1559.8701171875 422.0194091796875 L 1508.56201171875 422.0194091796875 L 1514.2705078125 373.5 L 1554.16162109375 373.5 L 1559.8701171875 422.0194091796875 Z" stroke="none"/>
+        <path d="M 1514.715209960938 374 L 1509.124267578125 421.5194091796875 L 1559.307861328125 421.5194091796875 L 1553.716918945313 374 L 1514.715209960938 374 M 1513.825927734375 373 L 1554.606201171875 373 L 1560.432373046875 422.5194091796875 L 1507.999755859375 422.5194091796875 L 1513.825927734375 373 Z" stroke="none" fill="#153b5e"/>
+      </g>
+    </g>
+    <g id="Group_154" data-name="Group 154" transform="translate(1057.339 403.572)">
+      <g id="Group_152" data-name="Group 152" transform="translate(13.661 60.069)">
+        <path id="Path_467" data-name="Path 467" d="M23.951,80.648a.466.466,0,0,1-.331-.137L13.8,70.69a.468.468,0,0,1,0-.662l9.821-9.821a.468.468,0,0,1,.662.662l-9.49,9.49,9.49,9.49a.468.468,0,0,1-.331.8Z" transform="translate(-13.661 -60.069)" fill="#153b5e"/>
+      </g>
+      <g id="Group_153" data-name="Group 153" transform="translate(13.856 69.89)">
+        <path id="Path_468" data-name="Path 468" d="M50.839,102.937H14.963a.468.468,0,1,1,0-.937H50.839a.468.468,0,1,1,0,.937Z" transform="translate(-14.495 -102)" fill="#153b5e"/>
+      </g>
+    </g>
+  </g>
+</svg>

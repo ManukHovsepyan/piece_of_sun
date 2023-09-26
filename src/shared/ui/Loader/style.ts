@@ -1,0 +1,6 @@
+export const LoaderStyles = 'inline-block relative w-[80px] h-[15px]'
+export const LoaderDivStyles = 'absolute top-[3px] w-[10px] h-[10px] rounded-[50%] bg-[#fff] animTimeFunc1 '
+export const LoaderFirstStyles = 'left-[8px] animate-content-loader1'
+export const LoaderSecondStyles = 'left-[8px] animate-content-loader2'
+export const LoaderThirdStyles = 'left-[24px] animate-content-loader2'
+export const LoaderFourthStyles = 'left-[46px] animate-content-loader3'

@@ -1,0 +1,2 @@
+export const LoaderPageStyles = 'flex bg-[#e7e7e7] items-center flex-col justify-center absolute left-0 top-0 right-0 bottom-0 w-full h-[100vh] z-[999999]'
+export const LoaderPageImageStyles = 'animate-page-loader w-[300px]'

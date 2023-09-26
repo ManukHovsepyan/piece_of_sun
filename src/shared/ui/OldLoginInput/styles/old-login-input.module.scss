@@ -1,0 +1,63 @@
+.loginInput {
+  clear: both;
+  width: 100%;
+  display: inline-block;
+  margin: 0 0 23px 0;
+  font-size: 16px;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  color: #153b5e;
+  border-bottom: 1px solid #000;
+  outline: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.inputWrapper {
+  position: relative;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  color: rgba(0,0,0,.87);
+
+  &>input {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    outline: 0;
+    line-height: 1.21428571em;
+    padding: 0.67857143em 1em;
+    font-size: 1em;
+    background: #fff;
+    color: rgba(0,0,0,.87);
+    border-radius: 0.28571429rem;
+    box-shadow: 0 0 0 0 transparent inset;
+    transition: color .1s ease,border-color .1s ease;
+    padding-left: 38px;
+    width: 100%;
+    background: transparent;
+  }
+
+  & svg {
+    position: absolute;
+    line-height: 1;
+    text-align: center;
+    width: 20px;
+    height: 25px;
+    padding: 8px;
+    opacity: .5;
+    border-radius: 0 0.28571429rem 0.28571429rem 0;
+    transition: opacity .3s ease;
+  }
+
+  &>span>svg {
+    cursor: default;
+    left: 1px;
+    margin: 0;
+  }
+
+  &>svg {
+    cursor: pointer;
+    right: 1px;
+    margin: 0;
+  }
+}

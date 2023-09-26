@@ -1,0 +1,1 @@
+export const headingStyles = 'text-[14px] mb-[38px] select-none'

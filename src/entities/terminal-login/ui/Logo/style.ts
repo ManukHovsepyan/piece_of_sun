@@ -1,0 +1,1 @@
+export const logoStyles = 'w-[200px] mb-[48px]'

@@ -1,0 +1,24 @@
+.loginFooterOuter {
+  width: 100%;
+  float: left;
+  background-color: #153b5f;
+  padding: 11px 0 11px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+.footerInner {
+  width: 907px;
+  margin: auto;
+}
+
+.footerInnerLi {
+  font-size: 16px;
+  color: #fff;
+  display: inline-block;
+  line-height: 15px;
+  padding: 0 34px 0 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}

@@ -1,0 +1,51 @@
+{
+  "terminalLogin": {
+    "footerDescription": "THIS IS A PRIVATE SERVER. UNAUTHORIZED ACCESS IS STRICTLY FORBIDDEN. FOR INQUIRIES: contact@waveum.com",
+    "formHeading": "Connessione al terminale",
+    "resetFormHeading": "Digita la tua {{step}}",
+    "registerFormHeading": "Registra un terminale",
+    "rememberMe": "Ricorda la macchina",
+    "submit": "Invia",
+    "signUp": "Registrati",
+    "endText": "Waveum",
+    "forgotPassword": "Password dimenticata?",
+    "alreadyHaveAccount": "Hai già un account?",
+    "registerButton": "Registrati",
+    "logoutAll": "Disconnetti"
+  },
+  "slider": {
+    "storeUiText": "Retail",
+    "partnerUiText": "Partner",
+    "wholesaleUiText": "Wholesale"
+  },
+  "error": {
+    "invalidCredentials": "La password non è corretta",
+    "passwordMismatch": "Le password non corrispondono",
+    "passwordReset": "Errore durante la modifica della password",
+    "registrationFailed": "Errore nella registrazione del terminale"
+  },
+  "placeholders": {
+    "username": "Identificativo terminale",
+    "password": "password",
+    "otp": "Inserisci il codice ricevuto tramite email",
+    "reset": "Inserisci il tuo nome utente",
+    "resetOtp": "Inserisci il codice ricevuto tramite email",
+    "resetPassword": "nuova password",
+    "register": "Inserisci il tuo nome utente",
+    "registerVerify": "Inserisci il codice ricevuto tramite email",
+    "registerRequest": "Digita la tua password",
+    "registerConfirme": "Digita di nuovo la tua password"
+  },
+  "infoMessage": {
+    "authUpdate": "Migrazione completata correttamente. Accedi di nuovo",
+    "resetPasswordSuccess": "Password cambiata con successo",
+    "registrationSuccess": "Terminale registrato con successo"
+  },
+  "storeLabels": {
+    "storeUI": "Retail",
+    "wholesaleUI": "Wholesale",
+    "partnerUI": "Partner",
+    "marketplaceUI": "Marketplace",
+    "backOffice": "Back-Office"
+  }
+}

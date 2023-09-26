@@ -1,0 +1,30 @@
+.loginHeader {
+  background: #155170;
+  background: -moz-linear-gradient(top, #155170 0%, #154c6c 40%, #154365 57%, #153c5f 100%);
+  background: -webkit-linear-gradient(top, #155170 0%, #154c6c 40%, #154365 57%, #153c5f 100%);
+  background: linear-gradient(to bottom, #155170 0%, #154c6c 40%, #154365 57%, #153c5f 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#155170', endColorstr='#153c5f', GradientType=0);
+  padding: 14px 6% 16px;
+  position: relative;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  a {
+    button {
+      padding: 10px 20px;
+      cursor: pointer;
+      background: white;
+      border: none;
+      color: #153b5f;
+    }
+  }
+}
+
+.headLogo {
+  width: 100px;
+  height: 50px;
+}

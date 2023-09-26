@@ -1,0 +1,33 @@
+.snackbarContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #155170;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 7px;
+  width: 485px;
+
+  :first-child {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    span {
+      cursor: pointer;
+      font-size: 20px;
+      color: #fff;
+      margin-right: 5px;
+    }
+  }
+}
+
+.textContainer {
+  padding: 0px 10px 10px 10px;
+  color: #fff;
+}
+
+.progressBar {
+  height: 10px;
+  width: 70%;
+  background-color: #2283b5;
+}
